@@ -6,8 +6,4 @@ public class test {
         System.out.println("rakesh");
     }
 
-    public void testMethod2(){
-        System.out.println("rakesh");
-    }
-
 }
